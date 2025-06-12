@@ -30,12 +30,8 @@ This project demonstrates how to classify ride-hailing users into simplified per
 | Dataset      | Accuracy | Notes                              |
 |--------------|----------|-------------------------------------|
 | Synthetic    | 100%     | Cleanly separated behaviors         |
-| Real-World   | ~17%     | Noisy data, overlapping patterns    |
+| Real-World   | ~88%     | Noisy data, overlapping patterns    |
 
-## 📦 Files
-- `rider_persona_classified.csv`: Final data with simplified persona labels
-- `notebook.ipynb`: Full clustering + classification pipeline
-- `README.md`: Project overview
 
 ## 🔮 Future Work
 - Improve cluster interpretability on real data
@@ -44,4 +40,4 @@ This project demonstrates how to classify ride-hailing users into simplified per
 
 ---
 
-**Author:** [Your Name]
+**Author:** Ayesha Shaik
